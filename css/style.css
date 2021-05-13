@@ -1,0 +1,30 @@
+body{
+    /* overflow: hidden; */
+    background: black !important;
+    background-image: url('/images/victor.png') !important;
+    background-repeat: no-repeat !important;
+    background-position: right top !important;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff !important;
+    margin: 0;
+    padding: 0;
+}
+
+.descr{
+    margin-top: 204px;
+    line-height: 2.6em;
+}
+
+.descr #proffe{
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.block{
+    display: flex;
+}
+
+a{
+    text-decoration: none !important;
+}
